@@ -9,3 +9,4 @@ grow the community of i2p power-users to the benefit of all.
   1. [Bring the Can-Opener](I_STOLE_IT_FROM_SADIE.md)
   2. [Radicalism](GET_REAL.md)
 
+https://github.com/eyedeekay/speaks

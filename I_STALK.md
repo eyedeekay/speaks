@@ -36,9 +36,10 @@ tend to have older equipment. My laptop was first sold in 2007, it is now 2018.
 It takes roughly 8 1/2 hours to compile [my coreboot experiments](https://github.com/eyedeekay/vendor)
 on it. I can take it to work, start compilation, and fail once. But for
 desktops, man, it's a buyer's market if you pay attention. Go on ebay the right
-day, you can get something that'll reduce that to about an hour. But try
-carrying that motherfucker with you to work. If you think that's possible to do
-safely, you're living in a different bubble than me that's all I'm saying.
+day, you can get something that'll reduce that to about an hour for like 40
+bucks. But try carrying that motherfucker with you to work. If you think that's
+possible to do safely, you're living in a different bubble than me that's all
+I'm saying.
 
 So I need to be able to talk to the desktop, which is at home, from the laptop,
 which I take with me to work. In order to do that well, I need to be able to
