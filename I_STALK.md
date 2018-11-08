@@ -66,7 +66,7 @@ the server keys into the client's whitelist, and thought to myself:
   *"Self, I think you might be on to something. Because you're using i2p*
   *tunnels with a whitelist on both ends, only an authentic client can connect*
   *to the authentic server tunnel, and this extends logically to the SSH server*
-  *and client. So if someone doesn't have your SSH client keys, "they" can't*
+  *and client. So if someone doesn't have your client tunnel keys, "they" can't*
   *try and determine your host name by attacking your SSH server, because*
   *unless you have the client tunnel keys, you can't even tell what's running.*
 
