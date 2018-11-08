@@ -1,7 +1,7 @@
 # speaks
 an i2p power user's take on i2p.
 
-whereing I clumsily try to make the case for tooling that exists conceptually
+wherein I clumsily try to make the case for tooling that exists conceptually
 somwhere between "web interface" and "core development" and propose ways to
 grow the community of i2p power-users to the benefit of all.
 
