@@ -22,7 +22,8 @@ anyone who doesn't work on one of the routers. What I'm trying to say is that
 I'm your biggest fan.
 
 I don't exactly have much to declare in this part, it's more of a post-facto
-diary to help you see how my use of i2p has shaped my perspective upon it.
+diary to help you see how my use of i2p has shaped my perspective upon it. Parts
+two and three have more precise points.
 
 I guess it started with SSH, if I think about it
 ------------------------------------------------
