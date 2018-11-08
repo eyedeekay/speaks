@@ -173,7 +173,7 @@ protection, it can probably provide some defense against malicious groups of
 eepSites. And in order to test it, I made it super, super easy to set up
 malicious groups of eepSites. Unfortunately, it's inescapably easy to determine
 that the isolated destinations are in use by determining that a request to a
-third-party request doesn't occur with the same destination, so they know you're
+third-party resource doesn't occur with the same destination, so they know you're
 running it. But that information is even less useful than a throwaway
 destination like in default i2p if as I suspect, somewhat more people are taking
 an interest in it against my explicit recommendations(about half kidding, it
