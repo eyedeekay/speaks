@@ -8,10 +8,10 @@ devices you are going to kick off when you restart the router. The wizard is
 great at guiding a user through the steps of forwarding a local service to i2p
 in almost all straightforward cases, but it comes with defaults that might not
 be optimal for popular applications and once somebody gets bogged down in the
-elaborate tunnel configuration Web interface, it can be quite confusing. People
-don't like to "Dial in" their secure software. Here, it's possible for
-experienced i2p users to make a difference outside of the core router and grow
-the pool of available i2p knowledge and tools.
+elaborate tunnel configuration Web interface, it can be quite confusing.
+**People don't like to "Dial in" their secure software**. Here, it's possible
+for experienced i2p users to make a difference outside of the core router and
+grow the pool of available i2p knowledge and tools.
 
 Encapsulating Configuration
 ---------------------------
@@ -28,8 +28,11 @@ services. You could even distribute them as packages and install them with
 for example, it could easily install the ssh configuration to the conf.d folder
 without requiring the regular tunnels.conf to be changed. Then every sysadmin
 who wants it can have **zero-conf, self-addressing, self-authenticating hidden**
-**SSH services** in a matter of seconds. How's that for getting the canopener
-out of the can, to borrow a phrase from your recent tweets?
+**SSH services** in a matter of seconds. Of course part of the purpose of
+expressing these encapsulated, packaged configuration is also to encapsulate
+sane defaults as well, we can use them to re-generate keys or prevent protocol
+leaks if need be. How's that for getting the canopener out of the can, to borrow
+a phrase from your recent tweets?
 
 This same methodology could be applied to basically any service. For instance,
 at home, I host a web interface to Youtube-DL which I attempt to encourage my
@@ -107,16 +110,24 @@ circumstances could lead to civil liability, but not once have I encountered
 anything infamous. Not so for ZeroNet. It's so easy to make nasty shit really,
 really permanent and really, really public on ZeroNet that it may push the
 barrier to entry too far in favor of the pedophiles. I say, let ZeroNet sort out
-it's community first, and see what happens later. Instead, focusing on things
-like Aktie, Syndie, Nightweb, and maybe even porting Aether to be i2p-native
-would be better options for what I see as the chief benefit of ZeroNet, which
-is the ability to create un-hosted community forums.
+it's community first, and see what happens later.
+
+Instead, focusing on things like Aktie, Syndie, Nightweb, and maybe even porting
+Aether to be i2p-native would be better, more focused options for what I see as
+the chief benefit of ZeroNet, which is the ability to create un-hosted community
+forums.
 
 ### Podcasts, XD, and something for Humans
 
 
 
+### Secure Scuttlebutt and git-ssb
+
+Would that I had the patience for JavaScript development...
+
 ### Interplanetary Filesystem
+
+Immense pro-social potential, automatic wikipedia
 
 Considering an idealized i2p-native remote-access tool
 ------------------------------------------------------
@@ -128,7 +139,7 @@ Current and Specific Criticisms of the API's available
 ### The in-i2p Human-Readable, Self-Administered Address Book isn't ambitious enough
 
 
-###
+### It also needs more TLD's
 
 GarlicCat could be cooler
 -------------------------
