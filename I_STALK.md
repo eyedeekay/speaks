@@ -84,7 +84,7 @@ That was years and years ago, before Oxy* and even Mosh maybe. Not even sure if
 Mosh tries to solve the privacy stuff either, and I don't use Oxy yet, mostly
 because I like my ssh-over-i2p tunnels so much. But for a long, long time, I
 didn't get much more creative than adding devices to my tunnel-cloud. But like,
-more than a decade ago you could do that with i2p. I'm not even if Tor hidden
+more than a decade ago you could do that with i2p. I'm not even sure if Tor hidden
 services had that kind of whitelisting at that point. From a guy who just wants
 an easy, reliable way to SSH to his house, that's fucking awesome.
 
@@ -143,7 +143,7 @@ switched my server over to i2pd and started gleefully deleting sed scripts. I
 mean gleefully, I got fuckin' enthusiastic. I finally had a reliable way to add
 every little gadget I had to my i2p-based cloud, as long as I modified my
 repository hosting infrastructure to support Android. If, by this point, you're
-wondering why I haven't mentioned garliccat yet, I'll get to that in the third
+wondering why I haven't mentioned GarlicCat yet, I'll get to that in the second
 part. But then I stopped using my custom Android apps and switched to Debian on
 an Allwinner tablet, because I'm reckless amateur with a toxic mixture of
 curiosity and control issues. But the arrangement still wasn't perfect, and I

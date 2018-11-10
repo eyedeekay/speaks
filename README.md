@@ -10,3 +10,10 @@ grow the community of i2p power-users to the benefit of all.
   2. [Radicalism](GET_REAL.md)
 
 https://github.com/eyedeekay/speaks
+
+This is for positive representation of power users during the i2p redesign, and
+is **absolutely not** intended to discount the needs of beginners. @eyedeekay
+believes that the ability of experienced users to provide support and
+suggestions is a resource that can benefit beginners. The second and third part
+are actually pretty much suggestions for things advanced i2p users could make
+organized efforts to do.
