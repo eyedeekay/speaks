@@ -45,11 +45,41 @@ does it...
 Bringing the Swiss-Army Knife
 -----------------------------
 
-I think i2p needs it's busybox. I think Tor needs it's busybox too, actually.
-The ability to dynamically put up and tear down hidden services of both types
-is valuable for many reasons. In order to do this, I started experimenting with
-the SAM API for configuring tunnels that work like regular i2ptunnel, to that
-end creating sam-forwarder(the binary it produces is called "samcatd").
+The problem of a "can opener inside the can" is actually theoretically
+imaginary. It's a hypothetical problem. If you have a can of can-opener in the
+real world, you just look for another can-opening utensil. Like a Swiss-Army
+knife. Busybox has been called the Swiss-Army Knife of Embedded Linux. I think
+i2p needs it's busybox. I think Tor needs it's busybox too, actually. The
+busybox of darknet interaction may not need to be as extensive as BusyBox or
+Coreutils, for instance, but there are a few obvious things it could use.
+
+### netcat for the i2p network
+
+[My take on the matter is compatible with i2pd configuration files](https://github.com/eyedeekay/sam-forwarder)
+
+### apt-transport-i2p
+
+[rationalize apt-transport-i2p here]
+
+### dig for the i2p network
+
+[because why not]
+
+### curl for the i2p network
+
+[present iget here]
+
+### mktorrent for i2p
+
+I haven't made anything like this yet, but it's probably easy-ish.
+
+### turnkey, embeddable DHT-over-i2p
+
+Neither this, but less easy.
+
+### proxy multiplexer for bridgable applications
+
+How to make it super easy to make SyncThing i2p-native.
 
 The Matter of Content
 ---------------------
@@ -59,8 +89,9 @@ it can help make more content available to people who would prefer to access it
 via i2p. An example would be ZeroNet's choice to integrate with the Tor network,
 which has resulted in an explosion of persistent content available via ZeroNet
 over Tor. Now most of ZeroNet outside the forums is a badlands of the
-useless-to-vile, but it's ability to host persistent, distributed forums is
-pretty cool and something that i2p could use.
+useless-to-vile(The tech is cool but holy fuck is it easy to find some wicked
+shit there), but it's ability to host persistent, distributed forums is pretty
+cool and something that i2p could use.
 
 
 Considering an idealized i2p-native remote-access tool
