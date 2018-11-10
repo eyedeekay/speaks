@@ -69,6 +69,8 @@ Coreutils, for instance, but there are a few obvious things it could use.
 
 [present iget here]
 
+[explain my issues with eepGet]
+
 ### mktorrent for i2p
 
 I haven't made anything like this yet, but it's probably easy-ish.
