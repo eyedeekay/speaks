@@ -16,4 +16,6 @@ is **absolutely not** intended to discount the needs of beginners. @eyedeekay
 believes that the ability of experienced users to provide support and
 suggestions is a resource that can benefit beginners. The second and third part
 are actually pretty much suggestions for things advanced i2p users could make
-organized efforts to do.
+organized efforts to do. It could even be characterized as a Call to Arms for
+i2p power users to help show off what i2p can do and make it an easier network
+for people to immediately benefit from using.

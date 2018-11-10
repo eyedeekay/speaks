@@ -95,6 +95,28 @@ useless-to-vile(The tech is cool but holy fuck is it easy to find some wicked
 shit there), but it's ability to host persistent, distributed forums is pretty
 cool and something that i2p could use.
 
+### I'm not saying ZeroNet, yet, but for ironic and inadequate reasons
+
+One of the things I like most about i2p is that in spite of it's occasional
+willingness to use stereotypically villainous imagery to satirize the alarmist
+coverage of the "Dark Net" in popular culture, the actions of the project and
+it's participants are pretty pro-social. I can honestly say that in over a
+decade of i2p use, I've never encountered material that was illegal in my
+country. I've encountered ways of acquiring legal material that under some
+circumstances could lead to civil liability, but not once have I encountered
+anything infamous. Not so for ZeroNet. It's so easy to make nasty shit really,
+really permanent and really, really public on ZeroNet that it may push the
+barrier to entry too far in favor of the pedophiles. I say, let ZeroNet sort out
+it's community first, and see what happens later. Instead, focusing on things
+like Aktie, Syndie, Nightweb, and maybe even porting Aether to be i2p-native
+would be better options for what I see as the chief benefit of ZeroNet, which
+is the ability to create un-hosted community forums.
+
+### Podcasts, XD, and something for Humans
+
+
+
+### Interplanetary Filesystem
 
 Considering an idealized i2p-native remote-access tool
 ------------------------------------------------------
