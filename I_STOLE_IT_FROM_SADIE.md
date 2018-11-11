@@ -64,6 +64,11 @@ Coreutils, for instance, but there are a few obvious things it could use.
 
 [rationalize apt-transport-i2p here]
 
+### [jedisct1/piknik](https://github.com/jedisct1/piknik) for the i2p network
+
+^^Holy shit how useful could this be for copying public keys between routers you
+own?
+
 ### dig for the i2p network
 
 [because why not]
